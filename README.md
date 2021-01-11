@@ -4,7 +4,7 @@ The WHMCS Template
 
 Now ThemMetro offring this template free forever, you are free to use it, update and modify it without any restruction.
 
-## No support and update is provided by ThemeMetro
+### No support and update is provided by ThemeMetro
 
 #### The following steps will guide you through the installation process:
 
