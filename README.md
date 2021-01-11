@@ -4,7 +4,7 @@ whmcs Template Croster
 Now ThemMetro offring this template free forever, you are free to use it, modify it as without any restruction. No support and update is provided by ThemeMetro
 
 ## The following steps will guide you through the installation process:
-=============================================================================
+
 - Unzip the contents of the zip file to a folder on your computer
 - Replace logo /assets/images/logo-dark.png
 - Upload the files in the 'upload' folder to your whmcs installation folder
