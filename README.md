@@ -31,8 +31,8 @@ Then edit file /includes/simple-navbar.tpl as per your choice.
 For contents modification - Edit following below .tpl files by using any text editor (recommended NotePad ++).
 For help the Comments are given in files itself.
 
-header.tpl
-footer.tpl
+- header.tpl
+- footer.tpl
 
 ## Additional Pages
 
