@@ -1,7 +1,6 @@
 # Clouder
 The WHMCS Template
-
-Supported WHMCS 8.1 Stable Release.
+#### Supported WHMCS 8.1 Stable Release.
 
 Now ThemMetro offring this template free forever, you are free to use it, update and modify it without any restruction.
 
