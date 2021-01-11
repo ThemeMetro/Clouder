@@ -35,7 +35,7 @@ header.tpl
 footer.tpl
 
 ## Additional Pages
-------------------------
+
 - homepage.tpl -
 - about_us.tpl
 - web_hosting.tpl
@@ -43,4 +43,4 @@ footer.tpl
 - reseller_hosting.tpl
 - vps_hosting.tpl
 - dedicated_servers.tpl
-------------------------
+
