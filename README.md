@@ -1,5 +1,5 @@
 # Clouder
-whmcs Template Croster
+The WHMCS Template
 
 Now ThemMetro offring this template free forever, you are free to use it, modify it as without any restruction. No support and update is provided by ThemeMetro
 
