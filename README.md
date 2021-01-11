@@ -4,8 +4,6 @@ The WHMCS Template
 
 Now ThemMetro offring this template free forever, you are free to use it, update and modify it without any restruction.
 
-### No support and update is provided by ThemeMetro
-
 #### The following steps will guide you through the installation process:
 
 - Unzip the contents of the zip file to a folder on your computer
@@ -42,8 +40,8 @@ For help the Comments are given in files itself.
 
 
 # &nbsp;&nbsp;
-
-
+### No support and update is provided by ThemeMetro
+# &nbsp;&nbsp;
 <p align="left"><a href="https://thememetro.com/"><img src="https://thememetro.com/images/logo.png" alt="ThemeMetro" /></a><br />
 Copyright (c) ThemeMetro.cm All Rights Reserved.</p>
 
