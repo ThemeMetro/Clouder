@@ -1,5 +1,3 @@
-<p><a href="https://thememetro.com/"><img src="https://thememetro.com/images/logo.png" alt="ThemeMetro" /></a></p>
-
 # Clouder
 whmcs Template Croster
 
@@ -41,4 +39,8 @@ For help the Comments are given in files itself.
 - reseller_hosting.tpl
 - vps_hosting.tpl
 - dedicated_servers.tpl
+
+
+<p><a href="https://thememetro.com/"><img src="https://thememetro.com/images/logo.png" alt="ThemeMetro" /></a></p>
+Copyright (c) ThemeMetro.cm All Rights Reserved.
 
