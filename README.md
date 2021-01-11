@@ -47,5 +47,5 @@ For help the Comments are given in files itself.
 <p></p>
 <p></p>
 <p align="right"><a href="https://thememetro.com/"><img src="https://thememetro.com/images/logo.png" alt="ThemeMetro" /></a></p>
-Copyright (c) ThemeMetro.cm All Rights Reserved.
+<p align="right">Copyright (c) ThemeMetro.cm All Rights Reserved.</p>
 
