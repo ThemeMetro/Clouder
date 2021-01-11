@@ -1,6 +1,4 @@
-<p align="center">
-<a href="https://thememetro.com/"><img src="https://thememetro.com/images/logo.png" alt="ThemeMetro" /></a>
-</p>
+<p><a href="https://thememetro.com/"><img src="https://thememetro.com/images/logo.png" alt="ThemeMetro" /></a></p>
 
 # Clouder
 whmcs Template Croster
