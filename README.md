@@ -9,13 +9,13 @@ Now ThemMetro offring this template free forever, you are free to use it, modify
 
 ## The following steps will guide you through the installation process:
 =============================================================================
-- 1- Unzip the contents of the zip file to a folder on your computer
-- 2- Replace logo /assets/images/logo-dark.png
-- 3- Upload the files in the 'upload' folder to your whmcs installation folder
-- 4- Log in to WHMCS admin for activation of the new theme as per your choice and new order form.
+- Unzip the contents of the zip file to a folder on your computer
+- Replace logo /assets/images/logo-dark.png
+- Upload the files in the 'upload' folder to your whmcs installation folder
+- Log in to WHMCS admin for activation of the new theme as per your choice and new order form.
 (If you experience any problems, try uploading in binary mode.)
 
-- 5- To edit Home page SEO Title and Tags - lang/overrides/english.php
+- To edit Home page SEO Title and Tags - lang/overrides/english.php
 For other languages just copying english.php in same folder and rename it like turkey.php etc.. and edit contents.
 
 ## Modifications:
