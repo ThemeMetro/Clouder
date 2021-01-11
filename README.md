@@ -2,7 +2,7 @@
 The WHMCS Template
 #### Supported WHMCS 8.1 Stable Release.
 
-Now ThemMetro offring this template free forever, you are free to use it, update and modify it without any restruction.
+ThemeMetro now offering this template free forever, you are free to use it, update and modify it without any restriction.
 
 #### The following steps will guide you through the installation process:
 
