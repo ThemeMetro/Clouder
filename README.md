@@ -3,7 +3,7 @@ The WHMCS Template
 #### Supported WHMCS 8.1 Stable Release.
 
 ## &nbsp;&nbsp;
-### ThemeMetro now offering this template free forever, you are free to use it, update and modify it without any restriction.
+#### ThemeMetro now offering this template free forever, you are free to use it, update and modify it without any restriction. No support and update is provided by ThemeMetro
 ## &nbsp;&nbsp;
 
 #### The following steps will guide you through the installation process:
@@ -42,8 +42,70 @@ For help the Comments are given in files itself.
 
 
 # &nbsp;&nbsp;
-### No support and update is provided by ThemeMetro
-# &nbsp;&nbsp;
+### Buy Premium WHMCS CMS Theme
+
+<p><a href="https://thememetro.com/"><img src="https://thememetro.com/images/croster-github-banner.png" alt="ThemeMetro" /></a></p>
+
+> Now, Stop using pre-made WHMCS Themes, build your own in no time. The Croster features a powerful & user-friendly page manager like WordPress where No coding skill required. The Croster has almost everything will make every website unique, Also, stop worrying about your custom work at the time of update. Absolutely hassle free update. Take a look at some of more most advanced features: 
+
+
+* #### **Single Page Checkout Order form** 
+* **Live Color Scheme Builder** Build your own unique color scheme by using live color scheme builder. 
+
+* **Fully equipped Page Manager** - Fully equipped & modern page manager like WordPress Gutenberg. Simply select the section and configure it, move any section up and down in page, you can create new page or duplicate any existing page easily and publish/unpublish anytime.
+
+* **Multiple Languages** - Create pages and menu items easily in multiple language. Design unique page for each language while can keep same URL.
+
+* **Multiple Currencies** - Sell your plans/packages in multiple currency, Users can select currency like language for entire website.
+
+* **Multiple Colors & Layouts** - Design your own layout with different color schemes for header, footer, navigation bars, sections and pricing tables.
+
+* **Menu Manager** - Multi language advanced menu manager for primary (**Mega Menu**) and footer navigation with custom css and icon option.
+
+* **SEO Ready** - Inbuilt SEO option in page manager like page Title, Meta Keyword(s), Meta Description, Robots, OG title, OG Description, OG Type and OG Image, Google Rich Snippets.
+
+* **Promotion Banner** - Create an offer and set live timer. You can easily control the timer from the admin section and can customise layout and colors.
+
+*  **Cookie Consent** - Inbuilt Cookie Consent banner which can enable by single click and can easily customise the layout and colors.
+
+*  **Disqus Comments** - Enable/disable Disqus comments easily in announcement and knowledgebase pages.
+
+*  **Dynamic Products & Pricing** - Just select the plans, group or tld in section, and let the theme auto collect rest of the things like whmcs order form description and pricing automatically from whmcs products. which means now you do not need to manage pricing, description etc twice. For example, if you ever need to change the price of any products or tlds, just change them in WHMCS products/services and domain pricing. The Croster will auto collect everything from there.
+
+* **Customizable Sections** - Each section has its own inline configuration like in Slider section it has 2 types of sliders and same kind of multiple option available in Domain Search, FAQs, Testimonial, Pricing tables, Simple header, Features listing, call to action and Text editor. More sections to be added in upcoming updates.
+
+* **Dynamic Announcement** -You just need to select the announcement section in page manager and set how many latest announcements want to show in the section and can show in any of page.
+
+and many more...To see more features, videos please visit at our website and [Click here](https://demo.thememetro.com/whmcs/index.php?systpl=croster&carttpl=croster_default) for [live demo](https://demo.thememetro.com/whmcs/index.php?systpl=croster&carttpl=croster_default)  of front end.
+
+![](https://thememetro.com/images/16.png)
+
+## Client area features:
+* Clean and modern layout.
+* Multiple invoice layouts.
+* Client area login page customization with more styles.
+* Its own clean & unique order form with **Single Page Checkout** option to boost your sale.
+* Awesome Login/Logout pages.
+* Fully supported & customised **MarketConnect** services pages.  
+
+![](https://thememetro.com/images/16.png)
+
+ ## Common features:
+* Instant Download.
+* Single Domain License.
+* **FREE** Setup/Installation.
+* Easy to update.
+![](https://thememetro.com/images/16.png)
+
+ ## Browser support:
+latest versions of Firefox, Edge, Chrome, Opera, Safari. We do not offer support for outdated browser versions.
+
+![](https://thememetro.com/images/16.png)
+
+### "Try it to believe it" Get 90% OFF for 1st month on Croster WHMCS CMS Theme <a href="https://thememetro.com/cart.php?a=add&pid=29&promocode=cTrial">Get it now</a>
+
+![](https://thememetro.com/images/16.png)
+
 <p align="left"><a href="https://thememetro.com/"><img src="https://thememetro.com/images/logo.png" alt="ThemeMetro" /></a><br />
 Copyright (c) ThemeMetro.cm All Rights Reserved.</p>
 
