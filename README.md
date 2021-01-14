@@ -1,5 +1,5 @@
 # Clouder
-The WHMCS Template
+The WHMCS Template from ThemMetro.com
 #### Supported WHMCS 8.1 Stable Release.
 
 ## &nbsp;&nbsp;
