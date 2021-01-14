@@ -3,7 +3,7 @@ The WHMCS Template
 #### Supported WHMCS 8.1 Stable Release.
 
 ## &nbsp;&nbsp;
-#### ThemeMetro now offering this template free forever according GNU General Public License v3.0, ThemeMetro will not provide any support and update.
+#### ThemeMetro.com is now offering this template free forever according GNU General Public License v3.0, ThemeMetro.com not liable provide any type Help OR support and update.
 ## &nbsp;&nbsp;
 
 #### The following steps will guide you through the installation process:
