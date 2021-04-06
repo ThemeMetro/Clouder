@@ -102,10 +102,6 @@ latest versions of Firefox, Edge, Chrome, Opera, Safari. We do not offer support
 
 ![](https://thememetro.com/images/16.png)
 
-### "Try it to believe it" Get 90% OFF for 1st month on Croster WHMCS CMS Theme <a href="https://thememetro.com/cart.php?a=add&pid=29&promocode=cTrial">Get it now</a>
-
-![](https://thememetro.com/images/16.png)
-
 <p align="left"><a href="https://thememetro.com/"><img src="https://thememetro.com/images/logo.png" alt="ThemeMetro" /></a><br />
 Copyright (c) ThemeMetro.cm All Rights Reserved.</p>
 
