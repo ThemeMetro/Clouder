@@ -44,7 +44,7 @@ For help the Comments are given in files itself.
 # &nbsp;&nbsp;
 ### Buy Premium WHMCS CMS Theme
 
-<p><a href="https://thememetro.com/"><img src="https://thememetro.com/images/bundle-marketplace-b-2500.png" alt="ThemeMetro" /></a></p>
+<p><a href="https://thememetro.com/"><img src="https://thememetro.com/images/bundle-marketplace-b-1800.png" alt="ThemeMetro" /></a></p>
 
 > Now, Stop using pre-made WHMCS Themes, build your own in no time. The Croster features a powerful & user-friendly page manager like WordPress where No coding skill required. The Croster has almost everything will make every website unique, Also, stop worrying about your custom work at the time of update. Absolutely hassle free update. Take a look at some of more most advanced features: 
 
@@ -77,7 +77,7 @@ For help the Comments are given in files itself.
 
 * **Dynamic Announcement** -You just need to select the announcement section in page manager and set how many latest announcements want to show in the section and can show in any of page.
 
-and many more...To see more features, videos please visit at our website and [Click here](https://demo.thememetro.com/whmcs/index.php?systpl=croster&carttpl=croster_default) for [live demo](https://demo.thememetro.com/whmcs/index.php?systpl=croster&carttpl=croster_default)  of front end.
+and many more...To see more features, videos please visit at our website and [Click here](https://thememetro.com) for [live demo](https://demo.thememetro.com/)  of front end.
 
 ![](https://thememetro.com/images/16.png)
 
