@@ -44,7 +44,7 @@ For help the Comments are given in files itself.
 # &nbsp;&nbsp;
 ### Buy Premium WHMCS CMS Theme
 
-<p><a href="https://thememetro.com/"><img src="https://thememetro.com/images/bundle-marketplace-b-1800.png" alt="ThemeMetro" /></a></p>
+<p><a href="https://thememetro.com/"><img src="https://thememetro.com/templates/default/assets/images/og-image.jpg" alt="ThemeMetro" /></a></p>
 
 > Now, Stop using pre-made WHMCS Themes, build your own in no time. The Croster features a powerful & user-friendly page manager like WordPress where No coding skill required. The Croster has almost everything will make every website unique, Also, stop worrying about your custom work at the time of update. Absolutely hassle free update. Take a look at some of more most advanced features: 
 
